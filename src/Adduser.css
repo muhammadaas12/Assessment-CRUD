@@ -1,0 +1,73 @@
+.all {
+    background-color: #090979cb;
+    height: 50rem;
+}
+
+label {
+    font-weight: 700;
+    color: aliceblue;
+}
+
+button[type=submit] {
+    font-weight: 700;
+}
+
+.close-btn {
+    margin-left: 50rem;
+    color: red;
+    font-size: 2rem;
+}
+
+.btn-add {
+    margin-left: 5rem;
+    border: 2px solid;
+}
+
+.btn-add:hover {
+
+    border: 2px solid;
+}
+
+h2 {
+    color: aliceblue;
+}
+
+.tablecontainer {
+    margin-top: 50px;
+    margin-left: 0.5rem;
+    border: 2px solid;
+    width: fit-content;
+
+}
+
+.tablecontainer table thead tr th {
+    min-width: 200px;
+    background-color: blanchedalmond;
+    padding: 7px;
+    text-align: center;
+
+}
+
+tbody {
+
+    text-align: center;
+    color: aliceblue;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.tablecontainer table tbody tr td {
+    border-bottom: 0.5px solid;
+
+}
+
+.btn-danger {
+    margin: 0;
+    padding: 2px;
+}
+
+.btn-success {
+    margin: 0;
+    padding: 2px;
+}
